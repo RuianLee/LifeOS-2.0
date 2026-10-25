@@ -1,0 +1,5 @@
+# npm install 下載的套件，用 package-lock.json 就能重新安裝
+node_modules/
+
+# macOS 自動產生的檔案
+.DS_Store
